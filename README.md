@@ -2,15 +2,13 @@
 
 ## Overview
 
-The purpose of the new analysis is well defined
-offering retirment package to those who meet certain criteria
-Looking ahead to prepare for future vacancies
-
+The purpose of the new analysis is to provide Pewlet-Hackard with the information needed to develop a well defined retirment package to those who meet certain criteria and prepare their company for the coming "silver tnsanmi" as large numbers of their employees retire. My goal is to help them understand:
 Assist HR with employee research. Specific questions: 
-Who will be retiring? How many positions will PH need to fill? 
-Help future-proof PH by generating a list of all employees eligible for retirement package. 
+- Who will be retiring? 
+- How many positions will PH need to fill?
+- Generating a list of all employees eligible for retirement package based on predetermined criteria. 
 
-Data is stored on six different tables. Use SQL to build an employee database. data modeling, engineering, and analysis 
+To accomplish this task, I will use the data stored on six different tables to create an SQL database. data modeling, engineering, and analysis 
 
 Mentoring program: experienced and successful employees stepping back into a part-time role instead of retiring completely. Their new role in the company would be as a mentor to the recently hired employees.
 
