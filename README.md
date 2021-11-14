@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of the new analysis is to provide Pewlet-Hackard with the information needed to develop a well defined retirment package to those who meet certain criteria and prepare their company for the coming "silver tnsanmi" as large numbers of their employees retire. My goal is to help them understand:
+The purpose of the new analysis is to help Pewlet-Hackard prepare for the expected 'silver tnsami' over the next few years when a large portion of their workforce will be eligible for retirement. I am providing them with the information needed to develop a well defined retirment package to those who meet certain criteria  My goal is to help them understand:
 Assist HR with employee research. Specific questions: 
 - Who will be retiring? 
 - How many positions will PH need to fill?
